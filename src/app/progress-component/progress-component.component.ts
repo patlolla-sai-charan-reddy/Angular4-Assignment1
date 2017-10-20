@@ -10,6 +10,7 @@ export class ProgressComponentComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
+    console.log("initialized")
   }
 
 }
